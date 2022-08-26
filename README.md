@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @EcodeJR
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS and RUST
-- 💞️ I’m looking to collaborate on Web projects
+- 👋 Hi, I’m @Emmanuel Dalyop
+- 🌐 I'm a web developer with 2 years experience.
+- 💻 The Technology I've worked with are:
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- PYTHON
+- MYSQL
+- GOLANG
+- REACT
+- RUST
+- 👀 I’m interested in Web3 Development
+- 🌱 I’m currently in the learning phase of React, Golang, JS and RUST
+- 💞️ I’m looking to collaborate on Web projects.
+- 🛰 I'm open to relocate and very open for jobs.
 - 📫 How to reach me emmanueldcode@gmail.
 
 <!---
