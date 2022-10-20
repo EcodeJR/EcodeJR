@@ -14,7 +14,7 @@
 - 🌱 I’m currently in the learning phase of React, Golang, JS and RUST
 - 💞️ I’m looking to collaborate on Web projects.
 - 🛰 I'm open to relocate and very open for jobs.
-- 📫 How to reach me emmanueldcode@gmail.
+- 📫 How to reach me emmanueldcode@gmail.com
 
 <!---
 EcodeJR/EcodeJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
