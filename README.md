@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Emmanuel Dalyop
-- 🌐 I'm a web developer with 2 years experience.
+- 🌐 I'm a web developer with 1 years experience.
 - 💻 The Technology I've worked with are:
 - HTML
 - CSS
@@ -11,7 +11,8 @@
 - REACT
 - RUST
 - 👀 I’m interested in Web3 Development
-- 🌱 I’m currently in the learning phase of React, Golang, JS and RUST
+- And FullStack Development  
+- 🌱 I’m currently in the learning phase of MERN stack and RUST.
 - 💞️ I’m looking to collaborate on Web projects.
 - 🛰 I'm open to relocate and very open for jobs.
 - 📫 How to reach me emmanueldcode@gmail.com
