@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @Emmanuel Dalyop
-- 🌐 I'm a web developer with 1 years experience.
+- 🌐 I'm a web developer with 2 years experience.
 - 💻 The Technology I've worked with are:
 - HTML
 - CSS
 - JAVASCRIPT
-- PHP
 - PYTHON
-- MYSQL
 - GOLANG
 - REACT
 - RUST
