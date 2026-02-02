@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with 3+ years of experience in web development, I'm currently working on SnapSolve an AI based web app that recognizes text and objects on images and gives solutions to the problems identified on it.<br>I'm looking to collaborate with companies and individuals who want to grow start ups, individual brands/projects etc..<br>I'm also open for employment in fields of Frontend Development, Dev-Ops...<br>I'm currently learning Blockchain, web3 development using RUST, Solana, Solidity etc...<br>If you're interested in collaborating with or hiring me.<br>Hit me up..<br>oh and I'm a quick learner.
+I'm a software developer with 5+ years of experience in web development, I've worked on projects like SnapSolve an AI based web app that recognizes text and objects on images and gives solutions to the problems identified on it.<br>I'm looking to collaborate with companies and individuals who want to grow start ups, individual brands/projects etc..<br>I'm also open for employment in fields of Frontend Development, Dev-Ops...<br>I'm currently learning Blockchain, web3 development using RUST, Solana, Solidity etc...<br>If you're interested in collaborating with or hiring me.<br>Hit me up..<br>oh and I'm a quick learner.
 
 
 ## 🌐 Socials:
